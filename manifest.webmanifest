@@ -1,0 +1,11 @@
+{
+  "name": "防災物資",
+  "short_name": "防災物資",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#647565",
+  "description": "手機版防災物資管理工具",
+  "icons": []
+}
